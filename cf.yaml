@@ -84,7 +84,6 @@ Resources:
             Path: /geohash
             Method: get
             RestApiId: !Ref API
-
 Outputs:
   API:
     Value: !Ref API.Stage

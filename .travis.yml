@@ -23,4 +23,3 @@ deploy:
   on:
     all_branches: true
     python: "3.6"
-
